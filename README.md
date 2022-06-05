@@ -1,5 +1,5 @@
 # Java Programming II - Helsinki
-This is a compilation of work completed for Java Programming Part 1 offered by Helsinki MOOC with ALL exercises completed. Java Programming II of the MOOC course found [here.](https://java-programming.mooc.fi/)
+This is a compilation of work completed for Java Programming Part 2 offered by Helsinki MOOC with ALL exercises completed. Java Programming II of the MOOC course found [here.](https://java-programming.mooc.fi/)
 
 Note that some exercises may not be the most efficient solution. Feel free to ask questions or post feedback via the issues tab.
 
