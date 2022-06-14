@@ -3,6 +3,8 @@ This is a compilation of work completed for Java Programming Part 2 offered by H
 
 Note that some exercises may not be the most efficient solution. Feel free to ask questions or post feedback via the issues tab.
 
+![An old rock in the desert](https://i.imgur.com/li0AlIH.png)
+
 # Core Concepts
 | Section | Description                                                                    |
 |---------|--------------------------------------------------------------------------------|
