@@ -6,15 +6,15 @@ Note that some exercises may not be the most efficient solution. Feel free to as
 ![An old rock in the desert](https://i.imgur.com/li0AlIH.png)
 
 # Core Concepts
-| Section | Description                                                                    |
-|---------|--------------------------------------------------------------------------------|
-| Part 8  | Hash Map, Similarity of Objects, Fast Data Fetching and Grouping   Information |
-| Part 9  | Class Inheritance, Interfaces, Object Polymorphism                             |
-| Part 10 | Collections as streams, Comparable Interface                                   |
-| Part 11 | Packages, Exceptions, Processing Files, Class Diagrams                         |
-| Part 12 | Type Parameters, ArrayList, Randomness, Multidimensional Data                  |
-| Part 13 | GUIs, UI Components, Event Handling, Application Launch Parameters             |
-| Part 14 | Data Visualization, Multimedia in Programs, Maven                              |
+| Section                                               | Description                                                                    |
+|-------------------------------------------------------|--------------------------------------------------------------------------------|
+| [Part   8](https://java-programming.mooc.fi/part-8)   | Hash Map, Similarity of Objects, Fast Data Fetching and Grouping   Information |
+| [Part   9](https://java-programming.mooc.fi/part-9)   | Class Inheritance, Interfaces, Object Polymorphism                             |
+| [Part   10](https://java-programming.mooc.fi/part-10) | Collections as streams, Comparable Interface                                   |
+| [Part   11](https://java-programming.mooc.fi/part-11) | Packages, Exceptions, Processing Files, Class Diagrams                         |
+| [Part   12](https://java-programming.mooc.fi/part-12) | Type Parameters, ArrayList, Randomness, Multidimensional Data                  |
+| [Part   13](https://java-programming.mooc.fi/part-13) | GUIs, UI Components, Event Handling, Application Launch Parameters             |
+| [Part   14](https://java-programming.mooc.fi/part-14) | Data Visualization, Multimedia in Programs, Maven                              |
 
 # Exercises 
 > **_NOTE:_**  All questions completed as part of the course practice problems and exercises.
